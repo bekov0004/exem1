@@ -1,0 +1,366 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+}
+.navbr{
+    display: flex;
+    justify-content: center;
+    background-color: white;
+    width: 100%;
+    padding: 16px 0px;
+}
+.main_navbr{
+    width: 65%;
+    display: flex;
+    justify-content: space-between;
+}
+.proverj{
+    width: 50px;
+    height: 50px;
+}
+.navbr_right{
+    display: flex;
+    align-items: center;
+}
+.navbr_right_ul{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    
+
+}
+.navbr_right_ul_li a{
+    text-decoration: none;
+
+}
+.img_pozi{
+    width: 100%;
+}
+.img_top{
+    position: relative;
+}
+.h1_Making{
+    position: absolute;
+    bottom: 40%;
+    left: 30%;
+    text-align: center;
+    font-size: 44px;
+    font-weight: 400;
+    line-height: 55px;
+    color: white;
+    font-family: 'Montserrat';
+    overflow: hidden;
+}
+/*-------Minimalist is a full-service digital ------*/
+.contener_Minimalist{
+    display: flex;
+    justify-content: center;
+    background-color:  #FEFEC9;;
+}
+.main_Minimalist{
+    width: 65%;
+}
+.text_bootom{
+    text-align: center;
+}
+.text_Minimalist_is_a_full{
+    font-size: 18px;
+    line-height: 25px;
+    padding: 65px 0px 39px 0px;
+}
+.button_Get_in_Touch{
+    font-size: 16px;
+    background-color:  #FEFEC9;;
+    padding: 12px 20px;
+    border: 1px solid  #47474F;
+    border-bottom: 2px solid #47474F;
+    border-radius: 2px;
+    margin-bottom: 59px;
+}
+/* ----How we make brands thrive---- */
+.contener_How_we_make_brands{
+    display: flex;
+    justify-content: center;
+}
+.main_How_we_make_brands{
+    width: 65%;
+
+}
+.h1_How_we_make_brands{
+    padding: 79px 0px 28px 0px;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+.HR{
+    position: absolute;
+    left: 47%;
+    width: 80px;
+   height: 2px;
+  background-color: black;
+}
+.SET_a_target{
+    width: 30.8%;
+    position: relative;
+    padding-top: 43px;
+}
+.position_img1{
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    top: 20%;
+    bottom: 20%;
+}
+.top_img_SET{
+    width: 270px;
+    height: 190px;
+    background-color:  #F5F5F5
+}
+.h3_SET{
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: center;
+    padding: 38px 0px 20px 0px;
+    color:  #333333;
+}
+.p_Lorem_ipsum{
+    font-size: 15px;
+    line-height: 22px;
+    text-align: center;
+}
+.SET_a_target_design_a_solution_track_the_progress{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 74px;
+}
+/* -----------Recent projects----------- */
+.contener_Recent_projects{
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F5;
+}
+.main_Recent_projects{
+    width: 65%;
+    padding-bottom: 50px;
+}
+.cont_obshi{
+    display: flex;
+    justify-content: space-between;
+}
+.main{
+    width:30.8%;
+    margin-bottom: 20px;
+}
+.top
+{
+    height:77%;
+}
+.top img{
+    width: 100%;
+}
+.booton{
+    background-color: white;
+}
+.booton h3{
+    font-size: 23px;
+    font-weight: 300;
+    line-height: 1.5;
+    padding: 10px 0px 0px 0px;
+    text-align: center;
+    font-family: "Karma", sans-serif;
+}
+.CEO{
+
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.5;
+    padding: 5px 0px;
+    font-family: "Karma", sans-serif;
+
+}
+
+.eget
+{
+    font-family: Verdana,sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    margin: 15px 0;
+
+}
+/* ----------------our team ------------*/
+.contener_our_team{
+    display: flex;
+    justify-content: center;
+}
+.main_our_team{
+    width: 65%;
+
+}
+.Ron_Swanson{
+    width: 23.2%;
+}
+.IMAGE0 img{
+    width: 100%;
+}
+.contener_profesion{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 50px;
+}
+.IMAGE0{
+    text-align: center;
+    padding-bottom: 10px;
+}
+.bottom_h3_p_p{
+text-align: center;
+}
+.p_Founder{
+ padding: 8px 0px 15px 0px;
+}
+.p_icon{
+    display: flex;
+    justify-content: center;
+    list-style-type: none ;
+}
+
+.p_icon li{
+   padding: 8px;
+}
+/* -----------i_love_you ----------*/
+.contener_l_love_you{
+    display: flex;
+    justify-content: center;
+    background-color: #F5F5F5;
+} 
+.min_l_love_you{
+    width: 55%;
+    display: flex;
+    justify-content: space-between;
+    padding: 15% 0% 7% 0%;
+ }
+.Julius_Von_Uberstien{
+    width: 50%;
+text-align: center;
+border-right: 1px solid #0000000A;
+}
+.Rachel_Stamos{
+    width: 50%;
+    text-align: center;
+}
+
+.H3_font{
+    font-size: 26px;
+    font-family: 'Vollkorn';
+}
+
+.contener_l_love_you{
+    position: relative;
+}
+
+.du_nuqt{
+    position: absolute;
+    padding-top: 5%;
+}
+.Julius_Von_Uberstien img{
+    padding: 24px 0px 10px 0px;
+}
+.Rachel_Stamos img{
+    padding: 24px 0px 10px 0px;
+}
+
+/* -------------------LET’s Get in touch---------- */
+.contener_LETs_Get_in_touch{
+    display: flex;
+    justify-content: center;
+    background-image: url(./IMAGE\ \(1hhhtd\).png);
+    width: 100%;
+    padding-bottom: 70px;
+}
+.min_LETs_Get_in_touch{
+    width: 60%;
+}
+.min_MEET_US_IN_PERSON{
+  width: 21%;
+}
+.centr1{
+   margin-left: 35%;
+}
+.h4_MEET{
+    font-size: 16px;
+    text-align: center;
+    padding: 26px 0px 20px 0px;
+}
+.p_Juniper{
+    font-size: 17px;
+    text-align: center;
+}
+.p_Merriweather{
+    font-size: 17px;
+    text-align: center;
+}
+
+.contener_MEET_US_IN_PERSON{
+    display: flex;
+    justify-content: space-between;
+}
+.crentr2{
+    margin-left: 31%;
+}
+.centr3{
+    margin-left: 31%;
+}
+.pdding2{
+    padding-top: 15px;
+}
+.pdding3{
+    padding-top: 15px;
+}
+/* Send Message */
+.footer{
+    width: 100%;
+    background: #000000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px 0;
+  }
+  .fa{
+    width: 70%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+  }
+  .fa form{
+    width: 100%;
+  }
+  .fa input{
+    background: #FFFFFF2E 18%;
+    border: none;
+    color: #FFFFFF;
+    width: 500px;
+    outline: none;
+    padding: 15px;
+    font-size: 22px;
+  }
+  textarea{
+    width: 99.6%;
+    outline: none;
+    background: #FFFFFF2E 18%;
+  }
+  .fa input:hover{
+    border-bottom: 1px solid #fff;
+  }
+  .send{
+    padding: 10px 15px;
+    color:#8BCAC3;
+    border: 1px solid #8BCAC3;
+    border-bottom: 2px solid #8BCAC3;
+    background: #1D1F2E;
+    margin: 50px;
+    font-size: 20px;
+  }
